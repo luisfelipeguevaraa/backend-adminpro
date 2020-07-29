@@ -3,8 +3,11 @@ var express = require('express');
 var mongoose = require('mongoose');
 
 
-// Inicializar variables
+// Crear el servidor express
 var app = express();
+
+// mean_user
+// rqOeMleCj88XmLw9
 
 
 // Conexión a la base de datos
